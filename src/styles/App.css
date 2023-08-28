@@ -1,0 +1,13 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  padding-top: 20%;
+}
+
+.NasaLogo {
+  width: 100px;
+  height: 50;
+  margin-bottom: 16px;
+}
