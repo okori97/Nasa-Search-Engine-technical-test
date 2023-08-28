@@ -5,6 +5,7 @@
 
 .form__searchField {
   width: 350px;
+  max-width: 100%;
   padding: 8px;
   background-color: white;
   border-radius: 16px;
@@ -23,4 +24,19 @@
 
 .form__button:hover {
   color: #d92906;
+}
+
+@media screen and (max-width: 400px) {
+  .form {
+    max-width: 100%;
+    display: flex;
+  }
+  .form__searchField {
+    max-width: 100%;
+    margin-bottom: 16px;
+  }
+
+  .form__button {
+    right: 8px;
+  }
 }

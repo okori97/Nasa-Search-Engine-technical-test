@@ -11,3 +11,12 @@
   height: 50;
   margin-bottom: 16px;
 }
+
+@media screen and (max-width: 400px) {
+  .app {
+    padding-top: 48px;
+    justify-content: center;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
