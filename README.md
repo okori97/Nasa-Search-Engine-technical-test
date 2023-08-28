@@ -10,6 +10,11 @@ The following functionalities need to be implemented:
 ● A Search page which allows users to search for images by keyword
 ● Images must be returned upon a successful search
 
+## Screenshots
+
+![Search](./Assets/Search-results.png)
+![Mobile](./Assets/Search-mobile.png)
+
 ## What this app was built with
 
 React
