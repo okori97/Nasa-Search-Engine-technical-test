@@ -44,6 +44,8 @@ React
 
 ## Authors name
 
+Okori
+
 ## Available Scripts
 
 In the project directory, you can run:
